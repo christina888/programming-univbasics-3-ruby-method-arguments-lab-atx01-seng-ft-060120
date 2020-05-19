@@ -7,7 +7,7 @@ def method_name (parameter)
   puts "Hello ${parameter}"
 end 
 
-method_name "Hello"
+method_name "Ruby"
 
 
 
